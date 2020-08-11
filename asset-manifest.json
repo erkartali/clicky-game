@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:erkartali/clicky-game.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/git@github.com:erkartali/clicky-game.git/static/js/main.ba36d300.chunk.js",
+    "main.js.map": "/git@github.com:erkartali/clicky-game.git/static/js/main.ba36d300.chunk.js.map",
+    "runtime-main.js": "/git@github.com:erkartali/clicky-game.git/static/js/runtime-main.10f961fb.js",
+    "runtime-main.js.map": "/git@github.com:erkartali/clicky-game.git/static/js/runtime-main.10f961fb.js.map",
+    "static/js/2.030fdbd3.chunk.js": "/git@github.com:erkartali/clicky-game.git/static/js/2.030fdbd3.chunk.js",
+    "static/js/2.030fdbd3.chunk.js.map": "/git@github.com:erkartali/clicky-game.git/static/js/2.030fdbd3.chunk.js.map",
+    "index.html": "/git@github.com:erkartali/clicky-game.git/index.html",
+    "precache-manifest.a60d37bfa50932d5c2b7fbcf49b0baa3.js": "/git@github.com:erkartali/clicky-game.git/precache-manifest.a60d37bfa50932d5c2b7fbcf49b0baa3.js",
+    "service-worker.js": "/git@github.com:erkartali/clicky-game.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/git@github.com:erkartali/clicky-game.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.030fdbd3.chunk.js.LICENSE.txt": "/git@github.com:erkartali/clicky-game.git/static/js/2.030fdbd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10f961fb.js",
+    "static/js/2.030fdbd3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ba36d300.chunk.js"
+  ]
+}
