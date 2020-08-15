@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Character from "./components/Character";
 import Header from "./components/Header";
 import array from "./array.json";
-import "./App.css";
+// import "./App.css";
 
 class App extends Component {
   state = {
@@ -14,7 +14,7 @@ class App extends Component {
 
  //ShufleFucntion() {
   //  Shuffles cards on click
- }
+//  }
 
 
 //  increaseScoreFunction() {
