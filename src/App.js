@@ -12,7 +12,15 @@ class App extends Component {
     Clicked: false
   };
 
- 
+ //ShufleFucntion() {
+  //  Shuffles cards on click
+ }
+
+
+//  increaseScoreFunction() {
+//    increases score when one of the cards is clicked
+//  }
+
 
   render() {
     return (
